@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**hanxiaoxin/hanxiaoxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 👦 I am a Frontend programmer from China.
 
-Here are some ideas to get you started:
+- 👨‍💻 I'm currently working on website development in Javascript
+- 💻 I also code in Java,PHP
+- ❤ I love playing video games, sekiro and LOL.
+- 💡 &nbsp;I share my ideas in my blog: [http://www.hanlinbo.top/]http://www.hanlinbo.top/)
+- 💬 Chat with me on QQ 2431555290
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Peace and Love.
+
+----
+
+这里是来自中国的二次元 前端，擅长摸鱼
