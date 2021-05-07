@@ -6,10 +6,10 @@
 - 💻 I also code in Java,PHP
 - ❤  I love playing video games, sekiro and LOL.
 - 💡 &nbsp;I share my ideas in my blog: [http://www.hanlinbo.top/](http://www.hanlinbo.top/)
-- 💬 Chat with me on QQ 2431555290
+- 💬 Chat with me on 
 
 Peace and Love.
 
 ----
 
-这里是来自中国的二次元 前端，擅长摸鱼
+这里是来自中国前端，擅长以退为进。
