@@ -1,0 +1,19 @@
+name: Pack HA Image
+on:
+  workflow_dispatch: # 支持手动点击触发
+
+jobs:
+  download-and-pack:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pull and Save HA Image
+        run: |
+          # 拉取适用于 KickPi (ARM64) 的 HA 镜像
+          docker pull --platform linux/arm64 homeassistant/home-assistant:stable
+          # 打包成压缩包
+          docker save homeassistant/home-assistant:stable | gzip > ha_arm64.tar.gz
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ha-image-package
+          path: ha_arm64.tar.gz
